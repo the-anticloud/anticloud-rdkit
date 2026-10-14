@@ -1,0 +1,187 @@
+{
+ "bomFormat": "CycloneDX",
+ "specVersion": "1.5",
+ "serialNumber": "urn:uuid:556bef4e-7bfa-5fec-b57f-8d48423edd8b",
+ "version": 1,
+ "metadata": {
+  "timestamp": "2026-10-06T17:38:55Z",
+  "component": {
+   "type": "application",
+   "name": "RDKIT",
+   "version": "83b357604d34",
+   "bom-ref": "pkg:generic/anticloud/RDKIT@83b357604d34",
+   "purl": "pkg:generic/anticloud/RDKIT@83b357604d34",
+   "licenses": [
+    {
+     "license": {
+      "id": "BSD-3-Clause"
+     }
+    }
+   ]
+  },
+  "properties": [
+   {
+    "name": "anticloud:source-commit",
+    "value": "null"
+   },
+   {
+    "name": "anticloud:source-url",
+    "value": "https://github.com/the-anticloud/OPENMRS_CORE.git"
+   },
+   {
+    "name": "anticloud:tier",
+    "value": "tier-agent"
+   }
+  ]
+ },
+ "components": [
+  {
+   "type": "library",
+   "name": "Catch2",
+   "version": "unspecified",
+   "purl": "pkg:generic/Catch2",
+   "bom-ref": "native/Catch2@unspecified"
+  },
+  {
+   "type": "library",
+   "name": "Inchi",
+   "version": "unspecified",
+   "purl": "pkg:generic/Inchi",
+   "bom-ref": "native/Inchi@unspecified"
+  },
+  {
+   "type": "library",
+   "name": "Python",
+   "version": "unspecified",
+   "purl": "pkg:generic/Python",
+   "bom-ref": "native/Python@unspecified"
+  },
+  {
+   "type": "library",
+   "name": "nanobind",
+   "version": "unspecified",
+   "purl": "pkg:generic/nanobind",
+   "bom-ref": "native/nanobind@unspecified"
+  },
+  {
+   "type": "library",
+   "name": "Boost",
+   "version": "unspecified",
+   "purl": "pkg:generic/Boost",
+   "bom-ref": "native/Boost@unspecified"
+  },
+  {
+   "type": "library",
+   "name": "Eigen3",
+   "version": "unspecified",
+   "purl": "pkg:generic/Eigen3",
+   "bom-ref": "native/Eigen3@unspecified"
+  },
+  {
+   "type": "library",
+   "name": "Threads",
+   "version": "unspecified",
+   "purl": "pkg:generic/Threads",
+   "bom-ref": "native/Threads@unspecified"
+  },
+  {
+   "type": "library",
+   "name": "ZLIB",
+   "version": "unspecified",
+   "purl": "pkg:generic/ZLIB",
+   "bom-ref": "native/ZLIB@unspecified"
+  },
+  {
+   "type": "library",
+   "name": "PostgreSQL",
+   "version": "unspecified",
+   "purl": "pkg:generic/PostgreSQL",
+   "bom-ref": "native/PostgreSQL@unspecified"
+  },
+  {
+   "type": "library",
+   "name": "TBB",
+   "version": "unspecified",
+   "purl": "pkg:generic/TBB",
+   "bom-ref": "native/TBB@unspecified"
+  },
+  {
+   "type": "library",
+   "name": "maeparser",
+   "version": "unspecified",
+   "purl": "pkg:generic/maeparser",
+   "bom-ref": "native/maeparser@unspecified"
+  },
+  {
+   "type": "library",
+   "name": "coordgen",
+   "version": "unspecified",
+   "purl": "pkg:generic/coordgen",
+   "bom-ref": "native/coordgen@unspecified"
+  },
+  {
+   "type": "library",
+   "name": "EXPAT",
+   "version": "unspecified",
+   "purl": "pkg:generic/EXPAT",
+   "bom-ref": "native/EXPAT@unspecified"
+  },
+  {
+   "type": "library",
+   "name": "Cairo",
+   "version": "unspecified",
+   "purl": "pkg:generic/Cairo",
+   "bom-ref": "native/Cairo@unspecified"
+  },
+  {
+   "type": "library",
+   "name": "SWIG",
+   "version": "unspecified",
+   "purl": "pkg:generic/SWIG",
+   "bom-ref": "native/SWIG@unspecified"
+  },
+  {
+   "type": "library",
+   "name": "Java",
+   "version": "unspecified",
+   "purl": "pkg:generic/Java",
+   "bom-ref": "native/Java@unspecified"
+  },
+  {
+   "type": "library",
+   "name": "JNI",
+   "version": "unspecified",
+   "purl": "pkg:generic/JNI",
+   "bom-ref": "native/JNI@unspecified"
+  },
+  {
+   "type": "library",
+   "name": "Freetype",
+   "version": "unspecified",
+   "purl": "pkg:generic/Freetype",
+   "bom-ref": "native/Freetype@unspecified"
+  },
+  {
+   "type": "library",
+   "name": "Qt6",
+   "version": "unspecified",
+   "purl": "pkg:generic/Qt6",
+   "bom-ref": "native/Qt6@unspecified"
+  },
+  {
+   "type": "library",
+   "name": "Qt5",
+   "version": "unspecified",
+   "purl": "pkg:generic/Qt5",
+   "bom-ref": "native/Qt5@unspecified"
+  },
+  {
+   "type": "library",
+   "name": "RDKit",
+   "version": "unspecified",
+   "purl": "pkg:generic/RDKit",
+   "bom-ref": "native/RDKit@unspecified"
+  }
+ ],
+ "sha_unverified": true
+}
